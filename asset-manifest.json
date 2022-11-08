@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/storedeplot3/static/css/main.73f571ab.chunk.css",
+    "main.js": "/storedeplot3/static/js/main.4bcee4b8.chunk.js",
+    "main.js.map": "/storedeplot3/static/js/main.4bcee4b8.chunk.js.map",
+    "runtime-main.js": "/storedeplot3/static/js/runtime-main.395e6e39.js",
+    "runtime-main.js.map": "/storedeplot3/static/js/runtime-main.395e6e39.js.map",
+    "static/css/2.80f479d8.chunk.css": "/storedeplot3/static/css/2.80f479d8.chunk.css",
+    "static/js/2.99883411.chunk.js": "/storedeplot3/static/js/2.99883411.chunk.js",
+    "static/js/2.99883411.chunk.js.map": "/storedeplot3/static/js/2.99883411.chunk.js.map",
+    "static/js/3.b8667fcc.chunk.js": "/storedeplot3/static/js/3.b8667fcc.chunk.js",
+    "static/js/3.b8667fcc.chunk.js.map": "/storedeplot3/static/js/3.b8667fcc.chunk.js.map",
+    "index.html": "/storedeplot3/index.html",
+    "precache-manifest.87d0a0678eb56576e8c2fcefc25e0ea4.js": "/storedeplot3/precache-manifest.87d0a0678eb56576e8c2fcefc25e0ea4.js",
+    "service-worker.js": "/storedeplot3/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/storedeplot3/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.73f571ab.chunk.css.map": "/storedeplot3/static/css/main.73f571ab.chunk.css.map",
+    "static/js/2.99883411.chunk.js.LICENSE.txt": "/storedeplot3/static/js/2.99883411.chunk.js.LICENSE.txt",
+    "static/js/main.4bcee4b8.chunk.js.LICENSE.txt": "/storedeplot3/static/js/main.4bcee4b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.395e6e39.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.99883411.chunk.js",
+    "static/css/main.73f571ab.chunk.css",
+    "static/js/main.4bcee4b8.chunk.js"
+  ]
+}
